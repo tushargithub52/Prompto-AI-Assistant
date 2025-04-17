@@ -1,6 +1,5 @@
 # Prompto
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://prompto-nu.vercel.app/)
 
 ## Description
@@ -15,7 +14,7 @@ Prompto is a simple and intuitive AI assistant accessible directly in your brows
 
 ## Technologies Used
 
-*   [Specify the technologies used, e.g., React, Node.js, OpenAI API, etc.]
+*   Next.js, assistant-ui and Gemini AI
 
 ## Usage
 
@@ -25,6 +24,3 @@ Visit Prompto live at: [https://prompto-nu.vercel.app/](https://prompto-nu.verce
 
 Contributions are welcome!  Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
